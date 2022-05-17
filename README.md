@@ -2,4 +2,4 @@
 Solar system visualization on js 
 
 
-<a src="https://editor.p5js.org/megalosslj/full/NXkFnurfM"> <img src="solar_sys.png"></img> </a>
+<a href="https://editor.p5js.org/megalosslj/full/NXkFnurfM"> <img src="solar_sys.png"></img> </a>
